@@ -1,0 +1,7 @@
+Subject: Your Amazon Order Has Shipped
+
+Good news! 
+Your order #123-4567890 has shipped.
+Track your package: https://www.amazon.com/track
+
+Thank you for shopping with us!

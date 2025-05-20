@@ -1,0 +1,7 @@
+Subject: Crypto Wallet Breach Detected
+
+Your wallet has been compromised.
+Transfer funds to a secure cold wallet immediately:
+http://wallet-security-now.biz
+
+Blockchain Security Team

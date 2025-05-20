@@ -1,0 +1,7 @@
+Subject: Confirm your PayPal account
+
+We noticed unusual activity on your PayPal account.
+To ensure your account is secure, please confirm your details:
+http://paypal-login-verification.net
+
+– PayPal Security

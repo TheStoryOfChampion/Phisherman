@@ -1,0 +1,11 @@
+Subject: Password Expiration Notice
+
+Attention user,
+
+Your email password is set to expire today. To continue using your account, please update your password immediately:
+
+[Click Here to Update Password]
+
+Failure to do so will result in account deactivation.
+
+IT Support Desk

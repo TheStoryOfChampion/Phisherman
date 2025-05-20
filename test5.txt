@@ -1,0 +1,12 @@
+Subject: Urgent: Account Suspension Notice
+
+Dear Customer,
+
+We have detected suspicious activity in your account. To avoid suspension, please verify your account immediately by clicking the link below:
+
+[Verify My Account Now]
+
+Failure to comply within 24 hours will result in permanent suspension.
+
+Sincerely,  
+Account Security Team
